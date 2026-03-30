@@ -1,0 +1,14 @@
+# a55xnsxx-user 16 BP2A.250605.031.A3 A556EXXSDCZB5 release-keys
+- manufacturer: samsung
+- platform: erd8845
+- codename: a55x
+- flavor: a55xnsxx-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: A556EXXSDCZB5
+- tags: release-keys
+- fingerprint: samsung/a55xnsxx/a55x:14/UP1A.231005.007/A556EXXSDCZB5:user/release-keys
+- is_ab: true
+- brand: samsung
+- branch: a55xnsxx-user-16-BP2A.250605.031.A3-A556EXXSDCZB5-release-keys-
+- repo: samsung_a55x_dump
